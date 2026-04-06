@@ -310,6 +310,10 @@ button[type="submit"]:active {
     padding: 14px 16px;
   }
 
+  .transaction .delete-btn {
+    opacity: 1;
+  }
+
   h1 {
     font-size: 1.8rem;
   }
